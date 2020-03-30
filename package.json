@@ -16,7 +16,7 @@
     "bytes": "1.0.0",
     "file-fixture": "0.0.1",
     "microee": "0.0.5",
-    "minilog": "2.0.x",
+    "minilog": "2.1.0",
     "mixu_minimal": "0.0.1",
     "mkdirp": "0.5.0",
     "request": "2.36.0",
